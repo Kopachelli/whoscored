@@ -1,6 +1,6 @@
 # whoscored
 
-1. whoscored crawling to csv
+1. whoscored.com crawling to csv
 
 2. csv migration to mysql db
 
