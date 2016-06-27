@@ -15,6 +15,7 @@
     - predict rating from some players features
    
 4. recomend position - dicision tree entropy
+    - https://github.com/radajin/whoscored/blob/master/recomend_position/recomend_position_1.ipynb
     - get data from mysql db (single position players)
     - make model (dicision tree(entropy), naive baysian)
     - decide model : dicision tree
